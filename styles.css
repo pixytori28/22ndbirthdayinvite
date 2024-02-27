@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-family: 'arial';
+    background: skyblue(#a2d2ff, #EFB0C9);
+    color: #11b5d6;
+}
+
+table, th, td {
+    border: 2px solid red;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+}

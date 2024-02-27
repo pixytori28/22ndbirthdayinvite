@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Cheers to 22! </title>
+<link rel ="stylesheet" href="styles.css">
+</head>
+<img src ="https://i.pinimg.com/736x/62/c9/58/62c958613705599ded93666545a8f9db.jpg" width="100%">
+<body>
+<h2> <strong> Come and celebrate my 22nd birthday! </strong> </h2>
+<p> <h3> </h3>idk about you but Im feeling 22! everything is gonna be alright! </p>
+<table>
+    <tr>
+        <th> name</th>
+        <th> Email address </th>
+    </tr>
+    <tr>
+        <td> Victoria Inahuazo </td>
+        <td> victoria.inahuazo11@myhunter.cuny.edu</td>
+    </tr>
+</table>
+</body>
+
+<input type = "file"
+    id = "avatar" name = "avatar"
+    accept = "image/png. image/jpeg">
+
+<input type ="password" placeholder = "Enter password">
+<input type ="username" placeholder = "Enter username">
+<button> Sign Up! </button>
+
+</html>
+
+
+
+
+
+
+
